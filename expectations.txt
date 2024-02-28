@@ -1,0 +1,3 @@
+Expectations for CMSC 100:
+
+Web programming isn't exactly a strong suit of mine, so I was nervous to start this course. I know so much goes on into creating web applications, so I think I may struggle with the lessons and exercises. However, in the first few weeks of this course so far, the FICs seem to have proven to be effective instructors/teachers. I hope they stay consistent with the way they have been teaching and that they'll be able to really guide us, students, through CMSC 100.
